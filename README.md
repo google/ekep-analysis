@@ -54,13 +54,7 @@ The handshake may halt at any message due to inconsistencies or cryptographic
 failures. The following sequence diagram (from the EKEP documentation) shows the
 full handshake.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>  GDC alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
+![EKEP Handshake](ekep_handshake.svg "The EKEP Handshake")
 
 This protocol is originally based on the ALTS handshake with the
 addition of attestation to ephemeral keys.
