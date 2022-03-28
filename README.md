@@ -54,7 +54,7 @@ The handshake may halt at any message due to inconsistencies or cryptographic
 failures. The following sequence diagram (from the EKEP documentation) shows the
 full handshake.
 
-![EKEP Handshake](ekep_handshake.svg "The EKEP Handshake")
+![EKEP Handshake](ekep-handshake.svg "The EKEP Handshake")
 
 This protocol is originally based on the ALTS handshake with the
 addition of attestation to ephemeral keys.
